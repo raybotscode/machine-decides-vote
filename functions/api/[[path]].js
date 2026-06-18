@@ -58,9 +58,6 @@ export async function onRequest(context) {
 
   } catch (err) {
     console.error("Vote API error:", err);
-    return json({
-      error: "Internal server error",
-      detail: err instanceof Error ? err.message : String(err),
-    }, { status: 500 });
+    return json({ error: "Internal server error" }, { status: 500 });
   }
 }
