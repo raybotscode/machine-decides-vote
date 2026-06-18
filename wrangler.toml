@@ -1,0 +1,16 @@
+name = "machine-decides-vote"
+main = "src/index.js"
+compatibility_date = "2026-06-18"
+workers_dev = true
+
+[assets]
+directory = "public"
+binding = "ASSETS"
+
+[observability]
+enabled = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "machine-decides-vote"
+database_id = "00000000-0000-0000-0000-000000000000"

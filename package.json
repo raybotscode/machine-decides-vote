@@ -1,0 +1,16 @@
+{
+  "name": "machine-decides-vote",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker + D1 voting widget for Machine Decides.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:schema": "wrangler d1 execute machine-decides-vote --file schema.sql",
+    "lint": "wrangler deploy --dry-run --outdir .wrangler-build"
+  },
+  "devDependencies": {
+    "wrangler": "^4.20.5"
+  }
+}
