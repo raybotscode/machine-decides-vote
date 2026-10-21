@@ -18,7 +18,6 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "limited edition posters" ⭐ — feature: TRANSFORMATION
 - "numbered and signed prints" — feature: THRESHOLD
 - "giclée prints explained" — feature: SUBSTRATE
-- "how to start an art print collection" — feature: ANCHOR
 - "machine generated art" — feature: TRANSFORMER
 - "science art prints" — feature: NEUTRINO
 - "physics wall art" — feature: PENDULUM
@@ -57,6 +56,8 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "circuit board art" — feature: PACKET
 
 ## Used
+
+- "how to start an art print collection" — 2026-10-21 — NW d6a7492110236116 (blueprint 98) — ANCHOR + PACKET — /blogs/journal/how-to-start-an-art-print-collection-an-honest-guide-from-inside-the-shop
 
 - "ai art for sale" — 2026-10-21 — NW f3c56ea16b901823 (blueprint 90) — RESERVOIR + HELIX — /blogs/journal/ai-art-for-sale-a-field-guide-from-someone-who-sells-it
 - "limited edition art prints" — 2026-10-20 — NW 0a705edd6eb3eff5 — DAEMON + SUBSTRATE — /blogs/journal/what-makes-a-limited-edition-art-print-valuable-a-collector-s-guide-from-someone-who-prints-them
