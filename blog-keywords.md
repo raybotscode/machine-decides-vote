@@ -56,6 +56,7 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 
 ## Used
 
+- "giclée prints explained" — 2026-10-22 — NW 8e2927f752a2d088 (blueprint 91) — CONDENSATION + THRESHOLD — /blogs/journal/gicl-e-prints-explained-what-they-are-how-they-re-made-and-why-they-last
 - "how to start an art print collection" — 2026-10-21 — NW d6a7492110236116 (blueprint 98) — ANCHOR + PACKET — /blogs/journal/how-to-start-an-art-print-collection-an-honest-guide-from-inside-the-shop
 
 - "ai art for sale" — 2026-10-21 — NW f3c56ea16b901823 (blueprint 90) — RESERVOIR + HELIX — /blogs/journal/ai-art-for-sale-a-field-guide-from-someone-who-sells-it
