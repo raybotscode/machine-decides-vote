@@ -39,7 +39,6 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "vintage ai art" — feature: ECHO
 - "open edition vs limited edition" — feature: PACKET
 - "certificate of authenticity art print" — feature: ENGRAM
-- "best paper for art prints" — feature: CONDENSATION
 - "art print sizes chart" — feature: LIGHT
 - "how to hang art prints" — feature: TELESCOPE
 - "matte poster finish" — feature: SUBSTRATE
@@ -55,6 +54,8 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "circuit board art" — feature: PACKET
 
 ## Used
+
+- "best paper for art prints" — 2026-10-29 — NW PENDING — SUBSTRATE + LIGHT — URL PENDING
 
 - "giclée prints explained" — 2026-10-22 — NW 8e2927f752a2d088 (blueprint 91) — CONDENSATION + THRESHOLD — /blogs/journal/gicl-e-prints-explained-what-they-are-how-they-re-made-and-why-they-last
 - "how to start an art print collection" — 2026-10-21 — NW d6a7492110236116 (blueprint 98) — ANCHOR + PACKET — /blogs/journal/how-to-start-an-art-print-collection-an-honest-guide-from-inside-the-shop
