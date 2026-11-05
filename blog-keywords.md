@@ -15,7 +15,6 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 
 ## Unused
 
-- "limited edition posters" ⭐ — feature: TRANSFORMATION
 - "numbered and signed prints" — feature: THRESHOLD
 - "machine generated art" — feature: TRANSFORMER
 - "science art prints" — feature: NEUTRINO
