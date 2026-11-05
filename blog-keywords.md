@@ -54,6 +54,7 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 
 ## Used
 
+- "limited edition posters" — 2026-11-05 — NW b3b3a07b93491771 (blueprint 100) — TRANSFORMATION + NEBULA — /blogs/journal/limited-edition-posters-what-they-are-what-they-re-worth-and-how-to-choose-one
 - "best paper for art prints" — 2026-10-29 — NW 4acff93f787fd8a5 (blueprint 90) — SUBSTRATE + LIGHT — /blogs/journal/best-paper-for-art-prints-what-i-learned-chasing-the-perfect-sheet
 
 - "giclée prints explained" — 2026-10-22 — NW 8e2927f752a2d088 (blueprint 91) — CONDENSATION + THRESHOLD — /blogs/journal/gicl-e-prints-explained-what-they-are-how-they-re-made-and-why-they-last
