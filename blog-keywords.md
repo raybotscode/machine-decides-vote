@@ -38,7 +38,6 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "vintage ai art" — feature: ECHO
 - "open edition vs limited edition" — feature: PACKET
 - "certificate of authenticity art print" — feature: ENGRAM
-- "art print sizes chart" — feature: LIGHT
 - "how to hang art prints" — feature: TELESCOPE
 - "matte poster finish" — feature: SUBSTRATE
 - "wall art for small spaces" — feature: CONTOUR
@@ -53,6 +52,8 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "circuit board art" — feature: PACKET
 
 ## Used
+
+- "art print sizes chart" — 2026-11-12 — NW 3cf49329ed24a8cc (blueprint 92) — PRISM + APERTURE — /blogs/journal/art-print-sizes-chart-a-wall-art-size-guide
 
 - "limited edition posters" — 2026-11-05 — NW b3b3a07b93491771 (blueprint 100) — TRANSFORMATION + NEBULA — /blogs/journal/limited-edition-posters-what-they-are-what-they-re-worth-and-how-to-choose-one
 - "best paper for art prints" — 2026-10-29 — NW 4acff93f787fd8a5 (blueprint 90) — SUBSTRATE + LIGHT — /blogs/journal/best-paper-for-art-prints-what-i-learned-chasing-the-perfect-sheet
