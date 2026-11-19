@@ -26,7 +26,6 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "light wave art" — feature: DIFFRACTION
 - "minimalist wall art" — feature: CONTOUR
 - "abstract art prints" — feature: ABSORPTION
-- "dark abstract art" — feature: DAEMON
 - "geometry wall art" — feature: RADIUS
 - "spiral art print" — feature: HELIX
 - "wall art for the living room" — feature: LIGHT
@@ -53,6 +52,7 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 
 ## Used
 
+- "dark abstract art" — 2026-11-19 — NW PENDING — feature: DAEMON — POST PENDING
 - "art print sizes chart" — 2026-11-12 — NW 3cf49329ed24a8cc (blueprint 92) — PRISM + APERTURE — /blogs/journal/art-print-sizes-chart-a-wall-art-size-guide
 
 - "limited edition posters" — 2026-11-05 — NW b3b3a07b93491771 (blueprint 100) — TRANSFORMATION + NEBULA — /blogs/journal/limited-edition-posters-what-they-are-what-they-re-worth-and-how-to-choose-one
