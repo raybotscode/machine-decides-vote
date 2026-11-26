@@ -30,7 +30,6 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "spiral art print" — feature: HELIX
 - "wall art for the living room" — feature: LIGHT
 - "office wall art" — feature: CARRIER
-- "gift ideas for art lovers" — feature: ENGRAM
 - "ai art vs human art" — feature: LATENT
 - "generative art prints" — feature: TRANSIENT
 - "algorithmic art" — feature: HELIX
@@ -51,6 +50,8 @@ Keyword pool for the weekly Journal post. Same pattern as `themes.md`: pick from
 - "circuit board art" — feature: PACKET
 
 ## Used
+
+- "gift ideas for art lovers" — 2026-11-26 — NW 2ed7fc691b24adb8 (blueprint 90) — ENGRAM + THRESHOLD — /blogs/journal/gift-ideas-for-art-lovers-an-honest-guide-from-inside-the-shop
 
 - "dark abstract art" — 2026-11-19 — NW f255eeb076bdf7ab (blueprint 96) — DAEMON + PENUMBRA — /blogs/journal/dark-abstract-art-what-it-is-who-makes-it-and-how-to-choose-one
 - "art print sizes chart" — 2026-11-12 — NW 3cf49329ed24a8cc (blueprint 92) — PRISM + APERTURE — /blogs/journal/art-print-sizes-chart-a-wall-art-size-guide
